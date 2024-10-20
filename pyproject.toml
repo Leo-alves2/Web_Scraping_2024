@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "web-scraping-2024"
+version = "0.1.0"
+description = ""
+authors = ["Leo-alves2 <leo.alves.b.vieira@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
